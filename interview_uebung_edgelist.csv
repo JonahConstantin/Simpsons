@@ -1,0 +1,5 @@
+from,to,weight,relationship
+Ego,A,3,3
+Ego,B,1,2
+Ego,C,2,5
+Ego,D,2,2
